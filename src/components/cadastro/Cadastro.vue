@@ -1,6 +1,6 @@
 <template>
     <h2 class="centralizado">Cadastro</h2>
-</<template>
+</template>
   
 <script>
 export default {
